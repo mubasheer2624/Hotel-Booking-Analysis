@@ -1,4 +1,4 @@
-# Project Overview
+## Project Overview
 This project analyzes hotel booking data to uncover patterns in booking behaviors and predict cancellations. The main goal is to identify which bookings are more likely to be canceled, assisting hotel management in optimizing their strategies and improving customer retention. The analysis is performed using Python with libraries such as Pandas, Seaborn, Matplotlib, and Plotly for data manipulation and visualization.
 
 # Data Description
