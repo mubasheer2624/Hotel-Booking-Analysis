@@ -24,7 +24,11 @@ The analysis provides insights into booking patterns and cancellation trends, wi
 
 ## Technologies Used
 Python: For all data processing and machine learning tasks.
+
 Pandas and NumPy: For data manipulation.
+
 Seaborn and Matplotlib: For data visualization.
+
 Plotly: For interactive choropleth maps.
+
 Scikit-learn: For building and evaluating machine learning models.
